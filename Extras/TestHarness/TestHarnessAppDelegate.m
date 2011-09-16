@@ -7,7 +7,7 @@
 //
 
 #import "TestHarnessAppDelegate.h"
-#import <Cloud.h>
+#import <Cloud/Cloud.h>
 
 @interface TestHarnessAppDelegate () <CLAPIEngineDelegate>
 
